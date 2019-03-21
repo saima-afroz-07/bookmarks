@@ -3,8 +3,8 @@ In this project, URL of a website is saved along with its shortened URL using bi
 Here URL are saved with tags. 
 
 Installation/Development
-## `npm init`
-## `npm install --save express`
+### `npm init`
+### `npm install --save express`
 
 ### USAGE
 Here schema for bookmark has been created. We have bookmark controller to handle the incoming requests
